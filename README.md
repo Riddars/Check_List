@@ -1,5 +1,3 @@
-# Check_List
-markdown
 # Список репозиториев:
 
 ## [Balance](https://github.com/Riddars/Balance)
